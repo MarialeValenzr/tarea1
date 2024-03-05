@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(196, 240, 255);
+}
+
+#cara{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 250, 224);
+    border-radius: 200px;
+    display: inline-block;
+    position: relative; 
+    left: 500px;
+    top: 150px;  
+
+}
+
+#base-sombrero{
+    width: 400px;
+    height: 50px;
+    background-color: black;
+    display: inline-block;
+    position: relative; 
+    left: 150px;
+    bottom: 90px;
+}
+
+#copa-sombrero{
+    width: 200px;
+    height: 180px;
+    background-color: black;
+    display: inline-block;
+    position: relative; 
+    bottom: 90px;
+    right: 160px;
+}
+
+#ojo-izq{
+    width: 50px;
+    height: 70px;
+    border-radius: 20px;
+    background-color: black;
+    display: inline-block;
+    position: relative; 
+    bottom: -10px;
+    right: 350px;
+}
+
+#ojo-der{
+    width: 50px;
+    height: 70px;
+    border-radius: 20px;
+    background-color: black;
+    display: inline-block;
+    position: relative; 
+    bottom: -10px;
+    right: 290px;
+}
+
+#pupila-izq{
+    width: 30px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+    display: inline-block;
+    position: relative; 
+    bottom: -10px;
+    right: 445px;
+}
+
+#pupila-der{
+    width: 30px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+    display: inline-block;
+    position: relative; 
+    bottom: -10px;
+    right: 367px;
+}
+
+#nariz{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: red;
+    display: inline-block;
+    position: relative; 
+    bottom: -30px;
+    right: 460px;
+}
+
+#boca{
+    width: 220px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: white;
+    display: inline-block;
+    position: relative; 
+    top: 35px;
+    left: 540px;
+}
+
+#boca2{
+    width: 160px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: red;
+    display: inline-block;
+    position: relative; 
+    top: 20px;
+    left: 350px;
+}
+
+#boca3{
+    width: 120px;
+    height: 10px;
+    border-radius: 50px;
+    background-color: black;
+    display: inline-block;
+    position: relative; 
+    top: 5px;
+    left: 205px;
+}
+
+
